@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    background-image: url('ROSE.jpg');
+    background-image: url('rose1.jpg');
     background-repeat: no-repeat; /* Prevent image from repeating */
     background-size: cover; /* Scale the image to cover the entire body */
     background-position: center; /* Center the image horizontally and vertically */
